@@ -1,1 +1,1 @@
-# couponcodes
+# Coupon Codes Dictionary
