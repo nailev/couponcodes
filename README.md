@@ -1,6 +1,6 @@
 # Coupon Codes Dictionary
 
-This is a dictionary of common coupon codes phrases.
+This is a dictionary of common coupon code phrases.
 
 ## References:
 
