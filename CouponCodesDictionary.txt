@@ -112,3 +112,5 @@ LAUNCH
 GIFT
 SALE
 CELEBRATE
+stu20
+students
